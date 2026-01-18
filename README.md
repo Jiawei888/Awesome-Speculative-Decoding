@@ -38,10 +38,10 @@ Foundational works that introduce or formalize speculative decoding, including b
 | 2025.02 | PEARL: PARALLEL SPECULATIVE DECODING WITH ADAPTIVE DRAFT LENGTH | ICLR 2025 | [Paper](https://arxiv.org/pdf/2408.11850) | [Code](https://github.com/smart-lty/ParallelSpeculativeDecoding) |
 | 2025.03 | EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty | ICML 2024 | [Paper](https://arxiv.org/pdf/2401.15077) | [Code](https://github.com/SafeAILab/EAGLE) |
 | 2024.06 | EAGLE-2: Faster Inference of Language Models with Dynamic Draft Trees | EMNLP 2024 | [Paper](https://arxiv.org/pdf/2406.16858) | [Code](https://github.com/SafeAILab/EAGLE) |
-| 2025.04 | EAGLE-3: Scaling up Inference Acceleration of Large Language Models via Training-Time Test | NeurIPS 2025 | [Paper](https://openreview.net/pdf?id=C9NEblP8vS) | [Code](https://github.com/SafeAILab/EAGLE) |
+| 2025.04 | EAGLE-3: Scaling up Inference Acceleration of Large Language Models via Training-Time Test | NeurIPS 2025 | [Paper](https://openreview.net/pdf?id=4exx1hUffq) | [Code](https://github.com/SafeAILab/EAGLE) |
 | 2024.07 | MEDUSA: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads | ICML 2024 | [Paper](https://arxiv.org/pdf/2401.10774) | [Code](https://github.com/FasterDecoding/Medusa) |
 | 2025.04 | EdgeLLM: Fast On-Device LLM Inference With Speculative Decoding | TMC 2025 | [Paper](https://ieeexplore.ieee.org/document/10812936) | - |
-| 2024.04 | SpecInfer: Accelerating Large Language Model Serving with Tree-based Speculative Inference and Verification | ASPLOS 2024 | [Paper](https://openreview.net/pdf?id=C9NEblP8vS) | - |
+| 2024.04 | SpecInfer: Accelerating Large Language Model Serving with Tree-based Speculative Inference and Verification | ASPLOS 2024 | [Paper](https://dl.acm.org/doi/10.1145/3620666.3651335) | - |
 | 2025.11 | Dovetail: A CPU/GPU Heterogeneous Speculative Decoding for LLM inference | EMNLP 2025 | [Paper](https://aclanthology.org/2025.emnlp-main.879.pdf) | [Code](https://github.com/ddInference/Dovetail) |
 | 2025.07 | Growing a Twig to Accelerate Large Vision-Language Models | ICCV 2025 | [Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Shao_Growing_a_Twig_to_Accelerate_Large_Vision-Language_Models_ICCV_2025_paper.pdf) | [Code](https://github.com/MILVLG/twigvlm) |
 | 2025.06 | SpecEE: Accelerating Large Language Model Inference with Speculative Early Exiting | ISCA 2025 | [Paper](https://dl.acm.org/doi/10.1145/3695053.3730996) | - |
