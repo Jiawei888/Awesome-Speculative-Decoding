@@ -58,6 +58,16 @@ Foundational works that introduce or formalize speculative decoding, including b
 | 2025.06 | SwiftSpec: Ultra-Low Latency LLM Decoding by Scaling Asynchronous Speculative Decoding | ARXIV | [Paper](https://arxiv.org/pdf/2506.11309) | - |
 | 2024.11 | PipeInfer: Accelerating LLM Inference using Asynchronous Pipelined Speculation| SC 2024 | [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10793190) | - |
 | 2025.05 | Speculative Decoding Meets Quantization: Compatibility Evaluation and Hierarchical Framework Design | ARXIV | [Paper](https://arxiv.org/pdf/2505.22179) | [Code](https://github.com/AI9Stars/SpecMQuant) |
+| 2025.11 | QSPEC: Speculative Decoding with Complementary Quantization Schemes | EMNLP 2025 | [Paper](https://aclanthology.org/2025.emnlp-main.240.pdf) | [Code](https://github.com/hku-netexplo-lab/QSpec) |
+| 2025.07 | A Drop-In Solution for On-the-Fly Adaptation of Speculative Decoding in Large Language Models | ACL 2025 | [Paper](https://aclanthology.org/2025.acl-long.482.pdf) | - |
+| 2025.07 | SpecDec++: Boosting Speculative Decoding via Adaptive Candidate Lengths | ACL 2025 | [Paper](https://openreview.net/pdf?id=ZwwY5UgNGh) | [Code](https://github.com/Kaffaljidhmah2/SpecDec_pp) |
+| 2025.11 | Alignment-Augmented Speculative Decoding with Alignment Sampling and Conditional Verification  | EMNLP 2025 | [Paper](https://aclanthology.org/2025.emnlp-main.343.pdf) | - |
+| 2025.07 | TurboSpec: Closed-loop Speculation Control System for Optimizing LLM Serving Goodput  | ARXIV | [Paper](https://arxiv.org/pdf/2406.14066) | - |
+| 2024.06 | Accelerating Production LLMs with Combined Token/Embedding Speculators  | ARXIV | [Paper](https://arxiv.org/pdf/2404.19124) | - |
+| 2025.12 | SLED: A Speculative LLM Decoding Framework for Efficient Edge Serving  | SEC 2025 | [Paper](https://dl.acm.org/doi/epdf/10.1145/3769102.3770608) | - |
+| 2024.09 | SEQUOIA: Scalable and Robust Speculative Decoding  | NeurIPS 2024 | [Paper](https://openreview.net/pdf?id=rk2L9YGDi2) | [Code](https://github.com/Infini-AI-Lab/Sequoia) |
+| 2024.07 | TRIFORCE: Lossless Acceleration of Long Sequence Generation with Hierarchical Speculative Decoding  | COLM 2024 | [Paper](https://openreview.net/pdf?id=HVK6nl3i97) | [Code](https://github.com/Infini-AI-Lab/TriForce) |
+
 
 
 
