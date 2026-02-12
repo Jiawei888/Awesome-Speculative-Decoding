@@ -67,6 +67,7 @@ Foundational works that introduce or formalize speculative decoding, including b
 | 2025.12 | SLED: A Speculative LLM Decoding Framework for Efficient Edge Serving  | SEC 2025 | [Paper](https://dl.acm.org/doi/epdf/10.1145/3769102.3770608) | - |
 | 2024.09 | SEQUOIA: Scalable and Robust Speculative Decoding  | NeurIPS 2024 | [Paper](https://openreview.net/pdf?id=rk2L9YGDi2) | [Code](https://github.com/Infini-AI-Lab/Sequoia) |
 | 2024.07 | TRIFORCE: Lossless Acceleration of Long Sequence Generation with Hierarchical Speculative Decoding  | COLM 2024 | [Paper](https://openreview.net/pdf?id=HVK6nl3i97) | [Code](https://github.com/Infini-AI-Lab/TriForce) |
+| 2025.12 | SPECULATIVE DECODING: PERFORMANCE OR ILLUSION?  | ARXIV | [Paper](https://arxiv.org/pdf/2601.11580) | [Code](https://github.com/SpecDecode-Bench/simulator) |
 
 
 
